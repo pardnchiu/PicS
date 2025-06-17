@@ -1,4 +1,5 @@
-# Picture Indexed Cache with Blob Store
+# PicS - Picture Indexed Cache with blob store System
+> Will build with Rust
 
 ```mermaid
 graph TB
